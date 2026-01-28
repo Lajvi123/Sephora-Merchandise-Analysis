@@ -1,6 +1,6 @@
 # Sephora-Merchandise-Analysis
 
-A merchandising-focused analysis of retail transactions to understand brand performance, category seasonality, top SKUs, customer segments, discount behavior, and channel mix. 
+An analysis of retail transactions to understand brand performance, category seasonality, top SKUs, customer segments and discount behavior
 
 
 ## Project goals
