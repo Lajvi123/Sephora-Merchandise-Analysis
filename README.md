@@ -1,11 +1,21 @@
 # Sephora-Merchandise-Analysis
 
-# Sephora Merchandising Analysis (Python)
+A merchandising-focused analysis of retail transactions to understand brand performance, category seasonality, top SKUs, customer segments, discount behavior, and channel mix. 
 
-A merchandising-focused analysis of retail transactions to understand brand performance, category seasonality, top SKUs, customer segments, discount behavior, and channel mix. Dashboard is in progress.
+
+## Project goals
+
+This analysis answers practical merchandising questions:
+
+- Which brands drive the most revenue and volume?
+- How do categories trend over time (seasonality and monthly patterns)?
+- What are the top SKUs contributing to revenue?
+- How do client segments behave (spend and repeat purchases)?
+- Do discounts actually increase units sold or mainly reduce revenue?
+- How does performance differ by channel (online vs in-store)?
 
 ## Data
-File: sephora_noisy_data.csv
+File: sephora_data.csv
 
 Columns used:
 order_id, order_date, client_id, client_segment, channel, category, brand, product_name, unit_price, units_sold, discount_pct, gross_revenue, net_revenue
